@@ -1,6 +1,5 @@
 /* eslint-disable */
 /* tslint:disable */
-
 /**
  * Mock Service Worker (1.3.2).
  * @see https://github.com/mswjs/msw
